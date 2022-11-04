@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.js, Next.js**
 
-- 📫 How to reach me **kalyan@gkram.me**
+- 📫 How to reach me **itsgkram@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gk-ram-ab2a05224/](https://www.linkedin.com/in/gk-ram-ab2a05224/)
 
