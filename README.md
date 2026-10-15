@@ -12,6 +12,8 @@ I sit between the customer, the product and the code: listen first, design the s
 - **AI solutions architecture:** integrations and AI workflows across Workday, SAP SuccessFactors and Oracle Taleo, over REST, SOAP and OData, OAuth and SAML, file feeds and ETL.
 - **Applied AI:** I evaluate models hands-on before building with them: speech-to-speech evaluations, a self-hosted LLM gateway, local versus hosted choices made on privacy and cost.
 
+**Currently exploring:** speech-to-speech models, on-device inference, LLM gateways, agent tool use with MCP, and model evaluation.
+
 ### Things I've built
 
 Most of this code is private; each link goes to a write-up on my site.
